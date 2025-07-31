@@ -3,20 +3,7 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Damien Gonzalez | Massage Therapy</title>
-<style>
-    body { font-family: Arial, sans-serif; margin: 0; background-color: #f0f8f7; color: #333; }
-    header { background-color: #5ba58d; color: white; text-align: center; padding: 1.5rem; }
-    nav { background-color: #4b8d78; display: flex; justify-content: center; }
-    nav a { color: white; padding: 1rem; text-decoration: none; font-weight: bold; }
-    nav a:hover { background-color: #3d7564; }
-    main { max-width: 900px; margin: auto; padding: 1.5rem; }
-    h1, h2 { color: #4b8d78; }
-    footer { text-align: center; padding: 1rem; background-color: #5ba58d; color: white; margin-top: 2rem; }
-    .rates-table { width: 100%; border-collapse: collapse; }
-    .rates-table th, .rates-table td { border: 1px solid #ccc; padding: 0.5rem; text-align: left; }
-    .rates-table th { background-color: #e6f2ef; }
-</style>
+
 </head>
 <body>
 
